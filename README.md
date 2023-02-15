@@ -1,8 +1,10 @@
-# Covid-19-Updates | Website | Abstract | Kimberly-Marcelin-Nathan 
+# Covid-19-Updates | Website | Kimberly-Marcelin-Nathan 
+Chech out the website!
+https://kimberly-marcelin-nathan.github.io/Covid-19-Updates-Kim/html/home.html
 
 “COVID-19 UPDATES” is a website that gives us more Details, News, Instructions, Global and National Updates, whereabouts of Coronaviruses which are a group of viruses belonging to the family of Coronaviridae, which infects both Animals and Humans.
 
-# Concepts, Tools, Languages & Technology Used !
+# Concepts, Tools, Languages & Technology Used | Abstract !
 
 Covid-19 Kg Updates Is Built Using Html5, Css3, Jquery, Ajax, Bootstrap, Mailchimp, Parallax Javascript, Googleapis, Covid Global Level Api, National Level Api, Streamlit, Podcast News Audio, Video, Json, Python. 
 Home Page Has Eye Catching Parallax Animation With Svg Alongside Menu That Navigates Us To Various Other Pages, It Has A Logo That Navigates To The Main Page Where Linear Background With Transparent Effects Are Added, And Box Displays Are Designed With Box Shadows, Active Buttons With Transitions And Bootstrap Css, Ajax Js Is Added And Beneath We Have Newsletter Subscription Following That Podcast News On Covid From Spotify Is Embedded As Audio And Geolocation Renders Us The Map On Canvas That Will Show Us The Details On Where The Firm Resides And Ends With A Footer. 
