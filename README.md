@@ -4,19 +4,20 @@
 
 # Concepts, Tools, Languages & Technology Used - Short Description !
 
-COVID-19 KG UPDATES IS BUILT USING HTML5, CSS3, JQUERY, AJAX, BOOTSTRAP, MAILCHIMP, PARALLAX JAVASCRIPT, GOOGLEAPIS, COVID GLOBAL LEVEL API, NATIONAL LEVEL API, STREAMLIT, PODCAST NEWS AUDIO, VIDEO, JSON, PYTHON. 
-HOME PAGE HAS EYE CATCHING PARALLAX ANIMATION WITH SVG ALONGSIDE MENU THAT NAVIGATES US TO VARIOUS OTHER PAGES, IT HAS A LOGO THAT NAVIGATES TO THE MAIN PAGE WHERE LINEAR BACKGROUND WITH TRANSPARENT EFFECTS ARE ADDED, AND BOX DISPLAYS ARE DESIGNED WITH BOX SHADOWS, ACTIVE BUTTONS WITH TRANSITIONS AND BOOTSTRAP CSS, AJAX JS IS ADDED AND BENEATH WE HAVE NEWSLETTER SUBSCRIPTION FOLLOWING THAT PODCAST NEWS ON COVID FROM SPOTIFY IS EMBEDDED AS AUDIO AND GEOLOCATION RENDERS US THE MAP ON CANVAS THAT WILL SHOW US THE DETAILS ON WHERE THE FIRM RESIDES AND ENDS WITH A FOOTER. 
-IN MENU BAR WE HAVE OPTIONS LIKE OUTBREAK, INTERNATIONAL, NATIONAL, LOGO+COVID-19 TEXT TAGS LEADS US TO THE MAIN PAGE. 
-PODCAST NEWS AUDIO IS EMBEDDED FROM SPOTIFY PLAYLIST ON THE TOPIC “HOW COVID CHANGED SCIENCE?” 
-NEWSLETTER SUBSCRIPTION BUTTON LEADS TO SUBSCRIPTION PAGE, THAT IS VALIDATED USING JQUERY AND STORES THE DATA INSIDE THE DATABASE PROVIDED BY MAILCHIMP. 
-OUTBREAK PAGE CONTAINS DETAILS ON COVID-19 AND PROVIDES BUTTON TO VIEW PDF FILE AND BUTTON TO DOWNLOAD PDF FILE. 
-AND WATCH VIDEO OPTIONS ARE PROVIDED WHERE A VIDEO IS RENDERED TO USER ON COVID-19. 
-IN THE INTERNATIONAL PAGE WE HAVE GLOBAL LEVEL UPDATES ON COVID CASES LIKE RECOVERED, DECEASED, ALIVE FOR EVERY COUNTRIES BY FETCHING THE API USING JSON AND STREAMLIT PROVIDES US WITH DETAILS ON GLOBAL LEVEL COVID STATUS ACCURATELY BY CHOOSING DATES, DOM FUNCTIONS ARE ADDED TO IT LIKE GETELEMENTS()ETC., WITH SSE UPDATES THROUGH API. 
-IN THE NATIONAL PAGE WE HAVE NATIONAL LEVEL UPDATES ON COVID LIKE OVERALL, RECOVERED, CONFIRMED, DECEASED CASES FOR ALL THE STATES IN INDIA. THESE ARE ACCURATELY REPRESENTED VISUALLY USING STREAMLIT THROUGH FOLIUM MAPS, BAR GRAPHS, PIE CHART, LINE GRAPHS, BOX PLOTS AND MORE, ALONG WITH THAT WE CAN CHOOSE PARTICULAR STATES TO KNOW THE ANALYTICS DETAILS AND UNDERSTAND THEM VISUALLY THROUGH GRAPH. 
-OVERALL THIS PROJECT WILL HELP ALL THE USERS TO GET A DETAILED KNOWLEDGE ON COVID-19 AND HENCE BY THE NAME WE CAN CONCLUDE IT “COVID-19 KG UPDATES”
+Covid-19 Kg Updates Is Built Using Html5, Css3, Jquery, Ajax, Bootstrap, Mailchimp, Parallax Javascript, Googleapis, Covid Global Level Api, National Level Api, Streamlit, Podcast News Audio, Video, Json, Python. 
+Home Page Has Eye Catching Parallax Animation With Svg Alongside Menu That Navigates Us To Various Other Pages, It Has A Logo That Navigates To The Main Page Where Linear Background With Transparent Effects Are Added, And Box Displays Are Designed With Box Shadows, Active Buttons With Transitions And Bootstrap Css, Ajax Js Is Added And Beneath We Have Newsletter Subscription Following That Podcast News On Covid From Spotify Is Embedded As Audio And Geolocation Renders Us The Map On Canvas That Will Show Us The Details On Where The Firm Resides And Ends With A Footer. 
+In Menu Bar We Have Options Like Outbreak, International, National, Logo+Covid-19 Text Tags Leads Us To The Main Page. 
+Podcast News Audio Is Embedded From Spotify Playlist On The Topic “How Covid Changed Science?” 
+Newsletter Subscription Button Leads To Subscription Page, That Is Validated Using Jquery And Stores The Data Inside The Database Provided By Mailchimp. 
+Outbreak Page Contains Details On Covid-19 And Provides Button To View Pdf File And Button To Download Pdf File. And Watch Video Options Are Provided Where A Video Is Rendered To User On Covid-19. 
+In The International Page We Have Global Level Updates On Covid Cases Like Recovered, Deceased, Alive For Every Countries By Fetching The Api Using Json And Streamlit Provides Us With Details On Global Level Covid Status Accurately By Choosing Dates, Dom Functions Are Added To It Like Getelements()Etc., With Sse Updates Through Api. 
+In The National Page We Have National Level Updates On Covid Like Overall, Recovered, Confirmed, Deceased Cases For All The States In India. 
+These Are Accurately Done and Represented Visually Using Streamlit Through Folium Maps, Bar Graphs, Pie Chart, Line Graphs, Box Plots And More, Along With That We Can Choose Particular States To Know The Analytics Details And Understand Them Visually Through Graphical Representations. 
+Overall This Project Will Help All The Users To Get A Detailed Knowledge On Covid-19 And Hence By The Name We Can Conclude It “Covid-19 Kg Updates”
 
 # International Streamlit Covid Dashboard | Genga K | Link - Stearmlit - GitHub
 
 https://genga28-covid-dash-board.streamlit.app//?embedded=true
+
 https://github.com/Genga28
 
