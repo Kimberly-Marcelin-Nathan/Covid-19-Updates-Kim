@@ -57,7 +57,7 @@ header
     justify-content: space-between;
     align-items: center;
     z-index: 10000;
-    background: linear-gradient(to right, #200e3b78 51%,transparent 100%);
+   
 }
 .logo
 {
